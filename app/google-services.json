@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602722135657",
+    "project_id": "first-project-792a2",
+    "storage_bucket": "first-project-792a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602722135657:android:c8ae8a6bf650a643f1fcf8",
+        "android_client_info": {
+          "package_name": "com.example.chatroomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsIpcbRduBmQg9JK8yCvykuNc_ieSDeHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
